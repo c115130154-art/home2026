@@ -1,8 +1,19 @@
-# 介紹
-主要介紹終端機(terminal,comsole)
+# 這是測試檔案
 
-這些指令主要是shell language
+git 指令
 
-- ls: list的縮寫,列出目前資料夾上的檔案
-- cd: 切換子項目
-- mv: 改檔案名稱
+- git init .
+- git clone 網址
+
+## 在codespace 中,我們需要的git 指令
+
+
+推
+- git add . 
+  - git 就是通知git 軟體吃後面的指令, 加入所有有關目前子目錄的改變
+- git commit -m "訊息"
+- git push
+
+拉
+
+- git pull
